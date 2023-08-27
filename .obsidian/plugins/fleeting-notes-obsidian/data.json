@@ -1,0 +1,14 @@
+{
+  "auto_generate_title": true,
+  "fleeting_notes_folder": "FleetingNotesApp",
+  "note_template": "---\n# Mandatory field\nid: \"${id}\"\n# Optional fields\ntitle: \"${title}\"\ntags: ${tags}\nsource: \"${source}\"\ncreated_date: \"${created_date}\"\nmodified_date: \"${last_modified_date}\"\n---\n${content}",
+  "sync_on_startup": true,
+  "last_sync_time": "2023-08-27T14:26:00.183Z",
+  "sync_type": "two-way",
+  "notes_filter": "",
+  "email": "ivan1219378@gmail.com",
+  "password": "Ii49748372",
+  "supabaseId": "856b7cdc-4294-4bd0-bdb6-102fd0dcc2c5",
+  "encryption_key": "",
+  "sync_interval": 286
+}

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4e96980a3bd5acc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de11d2dc02045e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e6e4229244cfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/make your own word in notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1d476870fd68e711",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
+            "id": "cf78469bcf69c141",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3025fe8b0288f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "285e3e97f0000d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a865461e2e880f8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "75db525b1365fd86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c9e096ba42375d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c53e1e32da62217",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf187f06584080a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0525f6196769ce2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf76bc0468b74828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/make your own word in notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "986c41d7653c3470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/make your own word in notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9b2d572a554cbe8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8de4f044e83a420",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/make your own word in notes.md"
+              }
+            }
+          },
+          {
+            "id": "e3a9394265adf365",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:建立新畫布": false,
+      "graph:查看關聯圖": false,
+      "switcher:開啟快速切換": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-to-notion:Share to notion": false,
+      "templates:插入模板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "c2e6e4229244cfdd",
+  "lastOpenFiles": [
+    "templates/HQ&A.md",
+    "templates/notes.md",
+    "templates/map of content.md",
+    "Readwise/Articles/PEP  Read - Disposition and Memory.md",
+    "bibliography.md",
+    "FleetingNotesApp/可選主題.md",
+    "表演前致詞介紹.md",
+    "廁所裡的心理學-2022.md",
+    "個案概念化.md",
+    "菊與刀——2022.md",
+    "智力 intelligence.canvas",
+    "統計假設檢定.canvas",
+    "符號檢定.canvas",
+    "Zettelkaston note-taking/permenent notes/藍色綠色效果分清楚.md",
+    "FleetingNotesApp/拖延，是過去的期待不斷落地所導致的厭倦和恐懼.md",
+    "FleetingNotesApp/金句.md",
+    "FleetingNotesApp/蛤蟆先生去看心理師.md",
+    "FleetingNotesApp/模仿慾望.md",
+    "FleetingNotesApp/左撇子的隱形優勢.md",
+    "FleetingNotesApp/後悔.md",
+    "FleetingNotesApp/非裔跟亞洲偏外控；美裔較內控 內控者較自律、情緒較穩定、身體健康狀況較佳 Rot (1).md",
+    "FleetingNotesApp/普心 問題.md",
+    "FleetingNotesApp/社心筆記.md",
+    "FleetingNotesApp/F統計.md",
+    "FleetingNotesApp/神秘感.md",
+    "FleetingNotesApp/「瘋狂之於個體，只是相對罕見的事情；團體、政黨、民族、時代的瘋狂，則是規則。」 (1).md",
+    "FleetingNotesApp/要相信上帝存在還是不存在.md",
+    "FleetingNotesApp/剃刀論.md",
+    "FleetingNotesApp/戀愛關係的對象選擇：互補還是相似好？.md"
+  ]
+}

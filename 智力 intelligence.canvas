@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"type":"group","id":"58db900bd1929b10","x":2511,"y":5,"width":1393,"height":715,"color":"6","label":"影響智力的因素"},
+		{"type":"text","text":"##### Heredity 遺傳\n\n。證據 :\n\nScarr & Carter-Saltzman ( 1982 ) 對同卵、異卵雙胞胎以及手足進行相關研究，並加入兩種變項好以排除環境影響之變因 (一是撫養孩童家庭相同或有異，二是撫養環境的差異)\n\n- 結論 : 撫養家庭與府撫養環境環境若相同，以及基因越一致，孩子間IQ的接近性越高","id":"fdc6d84e657f8be3","x":2531,"y":426,"width":809,"height":274},
+		{"type":"text","text":"## Flynn effect弗林效應\n\n人們智力隨著年代增長，智力也跟著提升","id":"3785beba82f5c1fa","x":3420,"y":337,"width":464,"height":126},
+		{"type":"text","text":"# 結論\n\n==IQ是遺傳與環境互動的結果==\n\n=>反應級距（reaction range)的概念","id":"e5669a684fee2f2f","x":2981,"y":817,"width":459,"height":171},
+		{"type":"text","text":"什麼是反應級距?","id":"a68536bc4a3cc1b9","x":3086,"y":1080,"width":250,"height":60},
+		{"type":"text","text":"##### 環境\n\n。證據：兒童智力被領養後可提升\n\n- 社經地位高（SES） ，IQ也容易高\n\t- 原因 : 受健康與教育資源使然\n\t\t- 教育資源豐富，心智刺激增加，有助於提升IQ\n\t- 研究發現，懷孕時健康狀態 (例如：德國麻疹) 與初生體重較高，會使孩子長大後的IQ較高。\n","id":"b9f7a7493b789153","x":2531,"y":25,"width":809,"height":312},
+		{"type":"text","text":"##### Theory of multiple intelligence 多元智力論\n\n。提出者 : Gardner, 1999\n\n。分為八種：（考試只考英文）\n\n1. logical-mathematical 數學邏輯\n\n2. Linguistic 語言\n\n3. Musical 音樂\n\n4. Spatial 空間\n\n5. Bodily-kinesthetic 身體運動\n\n6. intrapersonal 人際\n\n7. interpersonal 自我認識\n\n8. naturalist 自然現象","id":"506f082f8894fa71","x":1700,"y":172,"width":508,"height":436},
+		{"type":"text","text":"### EQ：Emotional Intelligence\n。測試項目為 「6. intrapersonal 人際」+「7. 自我認識」","id":"82218945fe378dc1","x":1700,"y":700,"width":580,"height":117},
+		{"type":"text","text":"##### The triarchic theory of　intelligence 智力三元論\n\n。提出者 : Sternberg, 2005\n\n。目的 : 告訴人們別只在乎傳統的智力上，其他種類的智力也很重要\n\n1. Analytical intelligence 分析性智能 ( 傳統智力測驗 )\n\n2. Creative intelligence 創造性智能\n\n3. practical intelligence 實用性智能\n\n( 創造性智能和實用性智能兩者是沒有相關的 )","id":"96f00ce6d8f28600","x":909,"y":172,"width":611,"height":348},
+		{"type":"text","text":"#### 智力的多元性","id":"91d434886bb09aef","x":920,"y":-20,"width":250,"height":60},
+		{"type":"text","text":"##### Intellectual inability 心智缺能\n\n→ 標準 : IQ<70（智力測驗表現） + 適應不良（智商越低，越需要專人的照顧）\n\n。特徵：\n\n( 1 ) 反應較慢 ( 2 ) 知識較少 ( 3 ) 不善於策略\n\n。原因：\n\n1. 先天因素 : 基因異常 \n\t - 唐氏症Down syndrome 21th染色體\n2. 後天因素 : 疾病\n\t- 德國麻疹（若孕婦期間得德國麻疹而影響到胎兒）\n\t- 胎兒酒精症候群（酒精使用過度影響到胎兒）\n\t- 腦膜炎、腦炎、腦傷、腫瘤⋯⋯","id":"cc2bc74cba701b0f","x":140,"y":200,"width":720,"height":458},
+		{"type":"text","text":"##### Islands of excellence\n\n指自閉症專家，其他一般項目都相較常人低下(沉於海面下)，但在特殊的領域特別突出，就像海洋中央的一塊島嶼般","id":"a1a7deb1c2a15c93","x":224,"y":980,"width":552,"height":205},
+		{"type":"text","text":"### 智力 Intelligence","id":"6f7640f22bdf37c6","x":440,"y":-300,"width":236,"height":68},
+		{"type":"text","text":"#### 智力測驗不準確的可能性\n\n。由於移民政策導致 ==(1)識字率下降==，以及 ==(2)施策人數過多==以造成些許人們的恐慌，於是美國一次世界大戰幾乎一半士兵心智年齡13以下","id":"da0fc3e5bf8793df","x":-140,"y":740,"width":575,"height":181},
+		{"type":"text","text":"#### 智力測驗的結果\n\n因為以常態分配分佈，所以檢是智商的結果標準，以離差的形勢來看","id":"21352ea4636ee38d","x":-80,"y":-20,"width":340,"height":144},
+		{"type":"text","text":"##### Giftness資賦優異\nTerman去追蹤超過1500位兒童50年以上\n\n→ 標準 : IQ>130\n\n。結論：\n\n-   家庭收入遠高於平均\n    \n-   身心更健康\n    \n-   壽命更長","id":"b158dcec51c07c6e","x":-340,"y":200,"width":400,"height":350},
+		{"type":"text","text":"##### Stereotype treat 刻板印象威脅\n\n當施策前，受到刻板印象威脅的影響，若先前告訴該受測者其所具有的刻板印象(與智力有關)，則造成結果有所影響\n\n。例如 : 黑人IQ低、女生數學差......","id":"343cddc2bf76d33e","x":-560,"y":980,"width":572,"height":200},
+		{"type":"text","text":"#### EQ的重要性\n\n- 事業有成87.5%是來自關係、12.5%是知識，而關係又有很大的程度是關乎於ＥＱ\n\n- EQ與生理健康有關\n\n- 抗壓性高有顯著幫助\n\n#### EQ的定義\n\n了解自己的情緒、妥善管理自己的情緒、瞭解他人的情緒、妥善處理人際關係","id":"e8d6a5c45d49d9a3","x":1613,"y":880,"width":754,"height":285}
+	],
+	"edges":[
+		{"id":"41d5605c03ef314c","fromNode":"6f7640f22bdf37c6","fromSide":"bottom","toNode":"21352ea4636ee38d","toSide":"top"},
+		{"id":"344a1826323129f5","fromNode":"21352ea4636ee38d","fromSide":"bottom","toNode":"b158dcec51c07c6e","toSide":"top"},
+		{"id":"8e3c57e8f6be0c28","fromNode":"21352ea4636ee38d","fromSide":"bottom","toNode":"cc2bc74cba701b0f","toSide":"top"},
+		{"id":"9cbebd2d5902be57","fromNode":"cc2bc74cba701b0f","fromSide":"bottom","toNode":"da0fc3e5bf8793df","toSide":"top","label":" 智力測驗「公平」與否?"},
+		{"id":"080f65d8e12355c9","fromNode":"da0fc3e5bf8793df","fromSide":"bottom","toNode":"343cddc2bf76d33e","toSide":"top"},
+		{"id":"edf6aac52ed32054","fromNode":"da0fc3e5bf8793df","fromSide":"bottom","toNode":"a1a7deb1c2a15c93","toSide":"top"},
+		{"id":"fa2a138487416eb3","fromNode":"6f7640f22bdf37c6","fromSide":"bottom","toNode":"91d434886bb09aef","toSide":"top"},
+		{"id":"e2ff0f0bf000b37b","fromNode":"91d434886bb09aef","fromSide":"bottom","toNode":"96f00ce6d8f28600","toSide":"top"},
+		{"id":"d6824d5f40d961a2","fromNode":"91d434886bb09aef","fromSide":"right","toNode":"506f082f8894fa71","toSide":"top"},
+		{"id":"a68598ea02a1dcb5","fromNode":"506f082f8894fa71","fromSide":"bottom","toNode":"82218945fe378dc1","toSide":"top"},
+		{"id":"4432abbca208cc72","fromNode":"b9f7a7493b789153","fromSide":"right","toNode":"3785beba82f5c1fa","toSide":"left"},
+		{"id":"a743c96a170dc3cb","fromNode":"fdc6d84e657f8be3","fromSide":"right","toNode":"3785beba82f5c1fa","toSide":"left"},
+		{"id":"eb85440a321b04ad","fromNode":"e5669a684fee2f2f","fromSide":"bottom","toNode":"a68536bc4a3cc1b9","toSide":"top"},
+		{"id":"9625f053bb1c804e","fromNode":"58db900bd1929b10","fromSide":"bottom","toNode":"e5669a684fee2f2f","toSide":"top"},
+		{"id":"82feb843d7cf21fb","fromNode":"6f7640f22bdf37c6","fromSide":"right","toNode":"58db900bd1929b10","toSide":"top"},
+		{"id":"dee94d380813d92c","fromNode":"82218945fe378dc1","fromSide":"bottom","toNode":"e8d6a5c45d49d9a3","toSide":"top"}
+	]
+}

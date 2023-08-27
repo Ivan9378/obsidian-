@@ -1,0 +1,16 @@
+{
+  "token": "vXqyaYev0D015iF3ckCL3U7yu8vo2A8BJEWdoEqq3cxjgeWHZz",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 5495016,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Articles/PEP  Read - Disposition and Memory.md": "18286850"
+  },
+  "reimportShowConfirmation": true
+}

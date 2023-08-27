@@ -1,0 +1,35 @@
+{
+  "obsidian-admonition:open-admonitions": [],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-timelines:render-timeline": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ]
+}

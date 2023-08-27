@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "4e96980a3bd5acc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be240bdfba4320e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "筆記/draft notes/1 夢與清醒生活的關係.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3025fe8b0288f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54b83e2041ed1353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a865461e2e880f8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75db525b1365fd86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c9e096ba42375d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf187f06584080a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0525f6196769ce2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf76bc0468b74828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "筆記/draft notes/1 夢與清醒生活的關係.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "布達",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "986c41d7653c3470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "筆記/draft notes/1 夢與清醒生活的關係.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9b2d572a554cbe8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8de4f044e83a420",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "筆記/draft notes/1 夢與清醒生活的關係.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0be240bdfba4320e",
+  "lastOpenFiles": [
+    "筆記/魏甘德 ( Weygandt ).md",
+    "筆記/draft notes/1 夢與清醒生活的關係.md",
+    "筆記/哈夫納 ( Haffner ).md",
+    "筆記/現代社會對兒童產生的影響.md",
+    "筆記/發展性諮商.md",
+    "附件/人物/Hermann Ebbinghaus (1858-1909).md",
+    "索引/心理學的支鏈.md",
+    "附件/人物/斯賓塞 H.spencer.md",
+    "筆記/人物.md",
+    "索引/Pasted image 20220914132057.png"
+  ]
+}
